@@ -1,0 +1,361 @@
+{
+  "screenshot": {
+    "name": "projects/3113057124830849146/screens/7899cef66fc14c2691fc814cbbe61acb/fileEntries/screenshot",
+    "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UIAmfVFqr84I_5kl9Aiq_VfGltJbw3eyhXCF9uT_eIh5Bz9ph5iCwcTtJ6ItAAp5upIZpoxrR4QhVrEzLc3DHI733larce78EiUyg0JGBsQIH8-ljpcVZvXrvi5EUKA2aWnxzQ407EPjjHgAj6eEmGyeXWIFBNpB_Ed9EMYxSUjELm2si7j6YXp11adIiZnGf0ESIpp1eIxBv04izqwusmQBJG5ymJlkjcO0QeefdDlhtyVzuLFxWPBkk"
+  },
+  "htmlCode": {
+    "name": "projects/3113057124830849146/screens/7899cef66fc14c2691fc814cbbe61acb/fileEntries/html",
+    "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1Yzk3Mzg4ODZiZmEwNzc5OWFmYTVhMDExYjBiEgsSBxCTgO6R8QkYAZIBIwoKcHJvamVjdF9pZBIVQhMzMTEzMDU3MTI0ODMwODQ5MTQ2&filename=&opi=89354086",
+    "mimeType": "text/html"
+  },
+  "id": "7899cef66fc14c2691fc814cbbe61acb",
+  "generatedBy": "figaro_agent",
+  "width": "2560",
+  "height": "9820",
+  "title": "Jason Christopher Hukom - Portfolio BackEnd & DevOps Junior",
+  "prompt": "Create a luxury, clean, modern, and professional Portfolio & Digital CV for Jason Christopher Hukom.\n\nSTRICT COLOR & STYLING RULES:\n- Main page background: Pure White #FFFFFF.\n- Card background: Warm White #FCFAF5 with gold border 1px #C9A227, rounded-xl, subtle soft shadow.\n- Highlight / Secondary card background: Soft Cream #F5F0E6 with border soft gold #E4C96A.\n- Primary text: Dark Charcoal #1D2939, secondary text: Muted Gray #667085, headings: Dark Navy #0B1F3A.\n- Primary Buttons: Gold background #F4C542 with Dark Navy text #0B1F3A, hover to #C9A227.\n- Secondary Buttons: Dark Navy #0B1F3A with white text and gold border/hover accent.\n\nDATA & CONTENT DETAILS:\n1. HERO & PROFILE SECTION:\n   - Name: Jason Christopher Hukom\n   - Tagline / Role: BackEnd and DevOps Junior\n   - School: SMK Negeri 2 Surakarta\n   - Status / Motto: \"Trying to LOCK IN\" & \"THE MAN WHO CAN'T BE MOVE\"\n   - Location: Indonesia • Personal Domain: https://jasonhukom.my.id/\n   - Description compile:\n     \"Siswa SMK Negeri 2 Surakarta dengan fokus mendalam pada arsitektur BackEnd dan DevOps engineering. Mengembangkan dan mengelola infrastruktur personal server, containerization, automasi, API development, serta eksplorasi teknologi Python dan JavaScript secara konsisten.\"\n   - Quick action buttons: \"Hubungi Saya\" (Gold button) and \"Lihat Repository (25)\" (Dark Navy button)\n\n2. HIGHLIGHT STATS / BADGES (Horizontal Card Row in #FCFAF5):\n   - GitHub Pro Member\n   - 25 Public Repositories & Active Homelab\n   - Achievements: Yolo & Pull Shark\n   - SMK Negeri 2 Surakarta (Rekayasa Perangkat Lunak / Kejuruan IT)\n   - Home Server & Lab Uptime Enthusiast\n\n3. REAL GITHUB REPOSITORIES (From jasonhukom GitHub Profile):\n   Grid of repository cards (Background #FCFAF5, border #C9A227):\n   - JasonLab (Public) - Python:\n     \"My Personal Lab. Eksperimen backend, automasi skrip, testing environment, dan riset pipeline komputasi.\"\n     Tags: Python, Lab, Automation, Stargazers\n   - Jason_Personal_Server (Public):\n     \"My Home Server. Konfigurasi self-hosted server, service orchestration, monitoring, dan manajemen infrastruktur rumah tangga.\"\n     Tags: DevOps, Linux Server, Networking, Self-Hosted\n   - Bible-Plan (Public) - JavaScript:\n     \"For myself, reading the Bible everyday. Aplikasi web penjadwalan dan tracking bacaan terstruktur harian.\"\n     Tags: JavaScript, Web App, Daily Planner\n   - PastCraft-Coordinates (Public) - JavaScript:\n     \"Aplikasi kalkulasi dan manajemen titik koordinat untuk server sandbox gaming & navigasi.\"\n     Tags: JavaScript, Tool, Mathematics\n   - Additional featured projects: RESTful API Microservices & CI/CD Pipeline Automation (SMK Negeri 2 Surakarta project).\n\n4. KEAHLIAN & TECH STACK (Based on GitHub & Junior BackEnd + DevOps):\n   Categorized skill cards:\n   - Backend Development: Python, JavaScript, Node.js, REST APIs, Database Management (MySQL, PostgreSQL), Authentication & Security.\n   - DevOps & Infrastructure: Linux / Ubuntu Server, Docker & Containerization, Home Server Architecture, Bash Scripting, CI/CD Workflows, Git & GitHub Versioning.\n   - Tools & Environment: VS Code, Linux CLI, Postman API Testing, Cloudflare / Networking, Server Hardware Management.\n\n5. ALL SOCIAL MEDIA & ONLINE PRESENCE (Compile all handles @jason_hukom):\n   Clean interactive grid cards for:\n   - YouTube: @jason_hukom (Tech demos, server setup, & lab updates)\n   - TikTok: @jason_hukom (Coding journey & tech student life)\n   - Instagram: @jasonchristopherhukom / @jason_hukom (Visual portfolio & personal updates)\n   - GitHub: @jasonhukom (25 repositories, open source contributions)\n   - Codedex: @jasonhukom (Coding journey & interactive challenges)\n   - X (Twitter) & Threads: @jason_hukom\n   - Website: https://jasonhukom.my.id/\n\n6. CONTACT & COLLABORATION FORM:\n   Warm White card (#FCFAF5) with gold border (#C9A227):\n   - Input fields: Nama Lengkap, Email / Kontak, Subjek Diskusi / Penawaran (Proyek Backend, Konsultasi Server / DevOps, Kolaborasi), dan Pesan.\n   - CTA button: \"Kirim Pesan\" (Gold #F4C542 button with dark navy text).## Reference Text Content\nYou should use the following text content extracted from the reference website to populate the design with realistic copy or content.\n\nSkip to content\n\n## Navigation Menu\n\n[](/)\n\n[Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2Fjasonhukom)\n\nAppearance settings\n\n  * Platform\n\n    * AI CODE CREATION\n      * [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)\n      * [GitHub Copilot appDirect agents from issue to merge](https://github.com/features/ai/github-app)\n      * [MCP RegistryIntegrate external tools](https://github.com/mcp)\n\n    * DEVELOPER WORKFLOWS\n      * [ActionsAutomate any workflow](https://github.com/features/actions)\n      * [CodespacesInstant dev environments](https://github.com/features/codespaces)\n      * [IssuesPlan and track work](https://github.com/features/issues)\n      * [Code ReviewManage code changes](https://github.com/features/code-review)\n      * [Code QualityEnforce quality at merge](https://github.com/features/code-quality)\n\n    * APPLICATION SECURITY\n      * [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)\n      * [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)\n      * [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)\n\n    * EXPLORE\n      * [Why GitHub](https://github.com/why-github)\n      * [Documentation](https://docs.github.com)\n      * [Blog](https://github.blog)\n      * [Changelog](https://github.blog/changelog)\n      * [Marketplace](https://github.com/marketplace)\n\n[View all features](https://github.com/features)\n\n  * Solutions\n\n    * BY COMPANY SIZE\n      * [Enterprises](https://github.com/enterprise)\n      * [Small and medium teams](https://github.com/team)\n      * [Startups](https://github.com/enterprise/startups)\n      * [Nonprofits](https://github.com/solutions/industry/nonprofits)\n\n    * BY USE CASE\n      * [App Modernization](https://github.com/solutions/use-case/app-modernization)\n      * [DevSecOps](https://github.com/solutions/use-case/devsecops)\n      * [DevOps](https://github.com/solutions/use-case/devops)\n      * [CI/CD](https://github.com/solutions/use-case/ci-cd)\n      * [View all use cases](https://github.com/solutions/use-case)\n\n    * BY INDUSTRY\n      * [Healthcare](https://github.com/solutions/industry/healthcare)\n      * [Financial services](https://github.com/solutions/industry/financial-services)\n      * [Manufacturing](https://github.com/solutions/industry/manufacturing)\n      * [Government](https://github.com/solutions/industry/government)\n      * [View all industries](https://github.com/solutions/industry)\n\n[View all solutions](https://github.com/solutions)\n\n  * Resources\n\n    * EXPLORE BY TOPIC\n      * [AI](https://github.com/resources/articles?topic=ai)\n      * [Software Development](https://github.com/resources/articles?topic=software-development)\n      * [DevOps](https://github.com/resources/articles?topic=devops)\n      * [Security](https://github.com/resources/articles?topic=security)\n      * [View all topics](https://github.com/resources/articles)\n\n    * EXPLORE BY TYPE\n      * [Customer stories](https://github.com/customer-stories)\n      * [Events & webinars](https://github.com/resources/events)\n      * [Ebooks & reports](https://github.com/resources/whitepapers)\n      * [Business insights](https://github.com/solutions/executive-insights)\n      * [GitHub Skills](https://skills.github.com)\n\n    * SUPPORT & SERVICES\n      * [Documentation](https://docs.github.com)\n      * [Customer support](https://support.github.com)\n      * [Community forum](https://github.com/orgs/community/discussions)\n      * [Trust center](https://github.com/trust-center)\n      * [Partners](https://github.com/partners)\n\n[View all resources](https://github.com/resources)\n\n  * Open Source\n\n    * COMMUNITY\n      * [GitHub SponsorsFund open source developers](https://github.com/open-source/sponsors)\n\n    * PROGRAMS\n      * [Security Lab](https://securitylab.github.com)\n      * [Maintainer Community](https://maintainers.github.com)\n      * [GitHub Stars](https://stars.github.com)\n      * [Archive Program](https://archiveprogram.github.com)\n\n    * REPOSITORIES\n      * [Topics](https://github.com/topics)\n      * [Trending](https://github.com/trending)\n      * [Collections](https://github.com/collections)\n\n  * Enterprise\n\n    * ENTERPRISE SOLUTIONS\n      * [Enterprise platformAI-powered developer platform](https://github.com/enterprise)\n\n    * AVAILABLE ADD-ONS\n      * [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)\n      * [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)\n      * [Premium SupportEnterprise-grade 24/7 support](https://github.com/enterprise/premium-support)\n\n  * [Pricing](https://github.com/pricing)\n\n\n\nSearch`/`\n\n[Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2Fjasonhukom)\n\n[Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header)\n\nAppearance settings\n\nYou signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert\n\n{{ message }}\n\n**jasonhukom** [Follow](/login?return_to=https%3A%2F%2Fgithub.com%2Fjasonhukom)\n\n[ Overview ](/jasonhukom) [ Repositories 25 ](/jasonhukom?tab=repositories) [ Projects 0 ](/jasonhukom?tab=projects) [ Packages 0 ](/jasonhukom?tab=packages) [ Stars 1 ](/jasonhukom?tab=stars)\n\nMore\n\n  * [Overview](/jasonhukom)\n  * [Repositories](/jasonhukom?tab=repositories)\n  * [Projects](/jasonhukom?tab=projects)\n  * [Packages](/jasonhukom?tab=packages)\n  * [Stars](/jasonhukom?tab=stars)\n\n\n\n**jasonhukom**\n\n[Follow](/login?return_to=https%3A%2F%2Fgithub.com%2Fjasonhukom)\n\n[](https://avatars.githubusercontent.com/u/191199902?v=4)\n\n🔒\n\nTrying to LOCK IN\n\n#  Jason Christopher Hukom  jasonhukom \n\n🔒\n\nTrying to LOCK IN\n\n[Follow](/login?return_to=https%3A%2F%2Fgithub.com%2Fjasonhukom)\n\nTHE MAN WHO CAN'T BE MOVE\n\n[ 15 followers ](https://github.com/jasonhukom?tab=followers) * [ 25 following ](https://github.com/jasonhukom?tab=following)\n\n  * Indonesia\n  * \u003chttps://jasonhukom.my.id/\u003e\n  * YouTube [@jason_hukom](https://www.youtube.com/@jason_hukom)\n  * Instagram [jasonchristopherhukom](https://www.instagram.com/jasonchristopherhukom/)\n  * \u003chttps://www.tiktok.com/@jason_hukom\u003e\n  * \u003chttps://www.codedex.io/@jasonhukom\u003e\n\n\n\n## [Achievements](/jasonhukom?tab=achievements)\n\n[](/jasonhukom?achievement=yolo&tab=achievements)[](/jasonhukom?achievement=pull-shark&tab=achievements)\n\n## [Achievements](/jasonhukom?tab=achievements)\n\n[](/jasonhukom?achievement=yolo&tab=achievements)[](/jasonhukom?achievement=pull-shark&tab=achievements)\n\n## Highlights\n\n  * Pro \n\n\n\nBlock or report user\n\n#  Block or report jasonhukom \n\n**Block user**\n\nPrevent this user from interacting with your repositories and sending you notifications. Learn more about [blocking users](https://docs.github.com/articles/blocking-a-user-from-your-personal-account). \n\nYou must be logged in to block users. \n\nClose all issues, pull requests, and discussions opened by this user  Content in all repositories owned by your account will be closed. \n\nAdd an optional note \n\nMaximum 250 characters. Please don’t include any personal information such as legal names or email addresses. Markdown is supported. This note will only be visible to you. \n\nBlock user \n\n**Report abuse**\n\nContact GitHub support about this user’s behavior. Learn more about [reporting abuse](https://docs.github.com/articles/reporting-abuse-or-spam). \n\n[Report abuse](/contact/report-abuse?report=jasonhukom+%28user%29)\n\n[ Overview ](/jasonhukom) [ Repositories 25 ](/jasonhukom?tab=repositories) [ Projects 0 ](/jasonhukom?tab=projects) [ Packages 0 ](/jasonhukom?tab=packages) [ Stars 1 ](/jasonhukom?tab=stars)\n\nMore\n\n  * [Overview](/jasonhukom)\n  * [Repositories](/jasonhukom?tab=repositories)\n  * [Projects](/jasonhukom?tab=projects)\n  * [Packages](/jasonhukom?tab=packages)\n  * [Stars](/jasonhukom?tab=stars)\n\n\n\n##  Pinned  Loading\n\n  1. [JasonLab](/jasonhukom/JasonLab) JasonLab Public\n\nMy Personal Lab \n\nPython [ 3 ](/jasonhukom/JasonLab/stargazers)\n\n  2. [Jason_Personal_Server](/jasonhukom/Jason_Personal_Server) Jason_Personal_Server Public\n\nMy Home Server \n\n  3. [Bible-Plan](/jasonhukom/Bible-Plan) Bible-Plan Public\n\nFor myself, reading the Bible everyday \n\nJavaScript\n\n  4. [PastCraft-Coordinates](/jasonhukom/PastCraft-Coordinates) PastCraft-Coordinates Public\n\nJavaScript\n\n\n\n\nSomething went wrong, please refresh the page to try again.  \nIf the problem persists, check the [GitHub status page](https://www.githubstatus.com/) or [contact support](/contact). \n\n###  Uh oh! \n\nThere was an error while loading. [Please reload this page]().\n\n## Footer\n\n[ ](https://github.com) (C) 2026 GitHub, Inc. \n\n### Footer navigation\n\n  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n  * [Security](https://github.com/security)\n  * [Status](https://www.githubstatus.com/)\n  * [Community](https://github.community/)\n  * [Docs](https://docs.github.com/)\n  * [Contact](https://support.github.com?tags=dotcom-footer)\n  * Manage cookies \n  * Do not share my personal information \n\n\n\nYou can’t perform that action at this time.\n",
+  "name": "projects/3113057124830849146/screens/7899cef66fc14c2691fc814cbbe61acb",
+  "theme": {
+    "colorMode": "LIGHT",
+    "font": "PLUS_JAKARTA_SANS",
+    "roundness": "ROUND_EIGHT",
+    "customColor": "#0b1f3a",
+    "headlineFont": "PLUS_JAKARTA_SANS",
+    "bodyFont": "PLUS_JAKARTA_SANS",
+    "labelFont": "PLUS_JAKARTA_SANS",
+    "namedColors": {
+      "on_primary_container": "#7587a7",
+      "on_primary_fixed_variant": "#364764",
+      "on_secondary_fixed": "#241a00",
+      "surface": "#f8f9ff",
+      "on_secondary_fixed_variant": "#594400",
+      "surface_bright": "#f8f9ff",
+      "error_container": "#ffdad6",
+      "error": "#ba1a1a",
+      "on_background": "#101c2c",
+      "secondary_container": "#fece4b",
+      "on_secondary_container": "#725800",
+      "surface_tint": "#4d5f7d",
+      "outline_variant": "#c4c6ce",
+      "inverse_surface": "#253141",
+      "surface_container": "#e6eeff",
+      "on_tertiary_fixed": "#241a00",
+      "primary_fixed": "#d6e3ff",
+      "on_tertiary_container": "#503d00",
+      "tertiary_fixed": "#ffe08e",
+      "on_secondary": "#ffffff",
+      "surface_container_lowest": "#ffffff",
+      "on_surface": "#101c2c",
+      "on_primary": "#ffffff",
+      "primary": "#000615",
+      "on_error": "#ffffff",
+      "tertiary": "#755b00",
+      "on_tertiary": "#ffffff",
+      "surface_container_high": "#dde9ff",
+      "secondary_fixed_dim": "#efc13e",
+      "tertiary_fixed_dim": "#ecc246",
+      "on_tertiary_fixed_variant": "#584400",
+      "outline": "#75777e",
+      "surface_dim": "#cedbf0",
+      "secondary": "#765b00",
+      "inverse_on_surface": "#eaf1ff",
+      "surface_container_low": "#eff4ff",
+      "inverse_primary": "#b5c7ea",
+      "primary_container": "#0b1f3a",
+      "primary_fixed_dim": "#b5c7ea",
+      "tertiary_container": "#cea72c",
+      "on_surface_variant": "#44474d",
+      "surface_container_highest": "#d7e3f9",
+      "secondary_fixed": "#ffdf94",
+      "on_error_container": "#93000a",
+      "surface_variant": "#d7e3f9",
+      "on_primary_fixed": "#071c36",
+      "background": "#f8f9ff"
+    },
+    "colorVariant": "FIDELITY",
+    "overridePrimaryColor": "#0b1f3a",
+    "overrideSecondaryColor": "#f4c542",
+    "overrideTertiaryColor": "#c9a227",
+    "overrideNeutralColor": "#1d2939",
+    "spacingScale": 2,
+    "typography": {
+      "body-lg": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28px",
+        "letterSpacing": "-0.005em"
+      },
+      "headline-lg": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "44px",
+        "letterSpacing": "-0.02em"
+      },
+      "headline-sm": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "-0.005em"
+      },
+      "body-md": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "0em"
+      },
+      "headline-lg-mobile": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "36px",
+        "letterSpacing": "-0.015em"
+      },
+      "display-hero-mobile": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "36px",
+        "fontWeight": "700",
+        "lineHeight": "44px",
+        "letterSpacing": "-0.02em"
+      },
+      "body-sm": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "letterSpacing": "0.005em"
+      },
+      "code-snippet": {
+        "fontFamily": "JetBrains Mono",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "letterSpacing": "0em"
+      },
+      "headline-md": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.01em"
+      },
+      "label-sm": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "11px",
+        "fontWeight": "600",
+        "lineHeight": "16px",
+        "letterSpacing": "0.08em"
+      },
+      "display-hero": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "56px",
+        "fontWeight": "700",
+        "lineHeight": "64px",
+        "letterSpacing": "-0.03em"
+      },
+      "label-md": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "lineHeight": "20px",
+        "letterSpacing": "0.01em"
+      }
+    },
+    "spacing": {
+      "margin": "3rem",
+      "gutter-mobile": "1rem",
+      "space-xs": "0.25rem",
+      "space-sm": "0.5rem",
+      "space-md": "1rem",
+      "space-lg": "1.5rem",
+      "margin-mobile": "1.25rem",
+      "space-xl": "2.5rem",
+      "gutter": "1.5rem"
+    },
+    "headlineFontFamily": "Plus Jakarta Sans",
+    "bodyFontFamily": "Plus Jakarta Sans",
+    "labelFontFamily": "Plus Jakarta Sans"
+  },
+  "deviceType": "DESKTOP",
+  "screenType": "DESIGN",
+  "screenMetadata": {
+    "agentType": "PRO_AGENT",
+    "status": "COMPLETE"
+  },
+  "designSystem": {
+    "name": "assets/530e8f3d065b4760b709951fb11e13ec",
+    "designSystem": {
+      "displayName": "Executive Precision",
+      "styleGuidelines": "## Brand & Style\n\nThis design system is tailored for an ambitious Junior Backend and DevOps Engineer aiming to project architectural maturity, absolute reliability, and understated luxury. Departing from typical dark hacker terminal tropes, it bridges rigorous infrastructure engineering with executive-tier craftsmanship. The aesthetic merges contemporary minimalism with bespoke luxury publishing: deep navy structure, warm tactile paper whites, and micro-calibrated gold accents.\n\n### Visual Style\n- **Minimalist Structuralism:** Generous whitespace, razor-sharp architectural layout lines, structured metadata grids, and disciplined restraint.\n- **Material Warmth:** Grounded on pure white canvas with stacked warm cream and paper surfaces, rejecting sterile pure grays in favor of warm, tactile, high-end editorial substrates.\n- **Precious Accents:** Restrained metallic gold accents used solely for critical focus indicators, active states, key metric highlights, and refined edge borders.\n\n## Layout & Spacing\n\nThe layout is built upon a 12-column responsive fluid grid system designed with structured mathematical rhythm. Generous vertical breathing room signals technical clarity and confidence.\n\n### Grid & Breakpoints\n- **Desktop (1200px+):** 12-column grid, `margin: 3rem`, `gutter: 1.5rem`. Max container bound: 1280px.\n- **Tablet (768px - 1199px):** 8-column grid, `margin: 2rem`, `gutter: 1.25rem`.\n- **Mobile (\u003c 768px):** 4-column grid, `margin: 1.25rem`, `gutter: 1rem`.\n\n### Vertical Rhythm\n- Architecture schematics, system performance cards, and repository overviews maintain a consistent `space-lg` gap on desktop and `space-md` on mobile.\n- Section-to-section transitions utilize large architectural clearances of `5rem` to `7rem`, maintaining the spacious luxury tone.\n\n## Elevation & Depth\n\nDepth is established primarily through **tactile paper layering and gold hairline borders** rather than thick drop shadows, creating an ultra-clean, high-craft physical presence.\n\n### Layering Model\n1. **Base Plane (0dp):** Pure White (`#FFFFFF`).\n2. **Substrate Section Layer (1dp):** Soft Cream (`#F5F0E6`) utilized for background alternation.\n3. **Elevated Card Layer (2dp):** Warm White (`#FCFAF5`) enclosed in a crisp 1px gold border (`#C9A227` at 20% opacity: `rgba(201, 162, 39, 0.2)`). Shadows are ultra-diffuse and warm-tinted: `0px 4px 24px -2px rgba(11, 31, 58, 0.04)`.\n4. **Interactive Hover & Modal Tier (3dp):** Elevated cards subtly shift upwards by `-2px`, and the border shifts to active gold (`#C9A227` at 60% opacity) with shadow `0px 12px 32px -4px rgba(11, 31, 58, 0.08)`.\n5. **Console & Deep Tech Inset Layer:** Deep Navy (`#07162A`) card planes embedded with a 1px border of `#0B1F3A` and inner hairline stroke of `rgba(244, 197, 66, 0.15)`.\n\n## Components\n\n### Buttons\n- **Primary Button:** Dark Navy (`#0B1F3A`) fill, pure white text, `label-md`. Border: 1px solid transparent. Hover: Background lifts to `#152E52` with subtle bottom border highlight of Bright Gold (`#F4C542`). Focus: 2px ring in Bright Gold (`#F4C542`) offset by 2px.\n- **Secondary / Outline Button:** Transparent fill, Dark Navy text (`#0B1F3A`), 1.5px border of Gold (`#C9A227`). Hover: Warm White (`#FCFAF5`) fill with Soft Gold (`#E4C96A`) border.\n- **Tech Action (Terminal/CLI):** Deep Navy (`#07162A`) fill, Monospace JetBrains Mono text, Bright Gold (`#F4C542`) leading cursor icon `$` or `\u003e`.\n\n### Cards & Project Showcases\n- Background: Warm White (`#FCFAF5`).\n- Border: 1px solid `rgba(201, 162, 39, 0.25)`.\n- Border Radius: `rounded-xl` (`1.5rem`).\n- Internal Padding: `space-xl` (`2.5rem`) on desktop; `space-lg` (`1.5rem`) on mobile.\n- Features: Integrated metric tags, backend architecture badges, and subtle gold accent bar (`2px` height) across top edge upon hover.\n\n### Chips & Badges\n- **Skill / Tech Stack Chip (Kubernetes, Go, AWS, Docker):** Soft Cream background (`#F5F0E6`), Dark Charcoal (`#1D2939`) text, 1px hairline border of `rgba(201, 162, 39, 0.3)`.\n- **Status / Health Badge:** `rounded-full` pill with a 6px glowing dot in Bright Gold (`#F4C542`) and text in Dark Navy (`#0B1F3A`).\n\n### Form Elements & Inputs\n- Background: Pure White (`#FFFFFF`).\n- Border: 1.5px solid `rgba(102, 112, 133, 0.3)`.\n- Active / Focus: Border transitions smoothly to Gold Border (`#C9A227`), ringed with `4px rgba(244, 197, 66, 0.15)`.\n\n### Architecture & Infrastructure Components\n- **System Architecture Visualizer Block:** Deep Navy (`#07162A`) canvas enclosed with `rounded-xl`, populated with glowing micro-diagrams, gold connection paths (`#C9A227`), and JetBrains Mono latency counters.\n- **CI/CD Pipeline Tracker:** Horizontal flow diagram with Warm White nodes connected by Gold hairlines, displaying micro-indicators for build phases, latency metrics, and test coverage ratios.",
+      "theme": {
+        "colorMode": "LIGHT",
+        "font": "PLUS_JAKARTA_SANS",
+        "roundness": "ROUND_EIGHT",
+        "customColor": "#0b1f3a",
+        "headlineFont": "PLUS_JAKARTA_SANS",
+        "bodyFont": "PLUS_JAKARTA_SANS",
+        "labelFont": "PLUS_JAKARTA_SANS",
+        "namedColors": {
+          "error_container": "#ffdad6",
+          "on_primary": "#ffffff",
+          "inverse_on_surface": "#eaf1ff",
+          "on_surface": "#101c2c",
+          "outline_variant": "#c4c6ce",
+          "tertiary_container": "#cea72c",
+          "on_surface_variant": "#44474d",
+          "surface_container_low": "#eff4ff",
+          "on_error": "#ffffff",
+          "surface": "#f8f9ff",
+          "tertiary": "#755b00",
+          "on_primary_fixed_variant": "#364764",
+          "on_error_container": "#93000a",
+          "secondary": "#765b00",
+          "on_primary_fixed": "#071c36",
+          "surface_bright": "#f8f9ff",
+          "secondary_container": "#fece4b",
+          "primary_container": "#0b1f3a",
+          "primary_fixed_dim": "#b5c7ea",
+          "tertiary_fixed": "#ffe08e",
+          "primary": "#000615",
+          "surface_container_lowest": "#ffffff",
+          "inverse_surface": "#253141",
+          "tertiary_fixed_dim": "#ecc246",
+          "surface_container_high": "#dde9ff",
+          "on_secondary": "#ffffff",
+          "background": "#f8f9ff",
+          "outline": "#75777e",
+          "on_tertiary": "#ffffff",
+          "on_tertiary_fixed_variant": "#584400",
+          "primary_fixed": "#d6e3ff",
+          "on_primary_container": "#7587a7",
+          "error": "#ba1a1a",
+          "surface_dim": "#cedbf0",
+          "on_tertiary_container": "#503d00",
+          "on_secondary_container": "#725800",
+          "on_secondary_fixed": "#241a00",
+          "secondary_fixed": "#ffdf94",
+          "surface_container_highest": "#d7e3f9",
+          "secondary_fixed_dim": "#efc13e",
+          "surface_variant": "#d7e3f9",
+          "surface_container": "#e6eeff",
+          "surface_tint": "#4d5f7d",
+          "on_background": "#101c2c",
+          "on_tertiary_fixed": "#241a00",
+          "inverse_primary": "#b5c7ea",
+          "on_secondary_fixed_variant": "#594400"
+        },
+        "designMd": "---\nname: Executive Precision\ncolors:\n  surface: '#f8f9ff'\n  surface-dim: '#cedbf0'\n  surface-bright: '#f8f9ff'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#eff4ff'\n  surface-container: '#e6eeff'\n  surface-container-high: '#dde9ff'\n  surface-container-highest: '#d7e3f9'\n  on-surface: '#101c2c'\n  on-surface-variant: '#44474d'\n  inverse-surface: '#253141'\n  inverse-on-surface: '#eaf1ff'\n  outline: '#75777e'\n  outline-variant: '#c4c6ce'\n  surface-tint: '#4d5f7d'\n  primary: '#000615'\n  on-primary: '#ffffff'\n  primary-container: '#0b1f3a'\n  on-primary-container: '#7587a7'\n  inverse-primary: '#b5c7ea'\n  secondary: '#765b00'\n  on-secondary: '#ffffff'\n  secondary-container: '#fece4b'\n  on-secondary-container: '#725800'\n  tertiary: '#755b00'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#cea72c'\n  on-tertiary-container: '#503d00'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#d6e3ff'\n  primary-fixed-dim: '#b5c7ea'\n  on-primary-fixed: '#071c36'\n  on-primary-fixed-variant: '#364764'\n  secondary-fixed: '#ffdf94'\n  secondary-fixed-dim: '#efc13e'\n  on-secondary-fixed: '#241a00'\n  on-secondary-fixed-variant: '#594400'\n  tertiary-fixed: '#ffe08e'\n  tertiary-fixed-dim: '#ecc246'\n  on-tertiary-fixed: '#241a00'\n  on-tertiary-fixed-variant: '#584400'\n  background: '#f8f9ff'\n  on-background: '#101c2c'\n  surface-variant: '#d7e3f9'\ntypography:\n  display-hero:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 56px\n    fontWeight: '700'\n    lineHeight: 64px\n    letterSpacing: -0.03em\n  display-hero-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 36px\n    fontWeight: '700'\n    lineHeight: 44px\n    letterSpacing: -0.02em\n  headline-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 36px\n    fontWeight: '600'\n    lineHeight: 44px\n    letterSpacing: -0.02em\n  headline-lg-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 28px\n    fontWeight: '600'\n    lineHeight: 36px\n    letterSpacing: -0.015em\n  headline-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 24px\n    fontWeight: '600'\n    lineHeight: 32px\n    letterSpacing: -0.01em\n  headline-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 20px\n    fontWeight: '600'\n    lineHeight: 28px\n    letterSpacing: -0.005em\n  body-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 18px\n    fontWeight: '400'\n    lineHeight: 28px\n    letterSpacing: -0.005em\n  body-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 15px\n    fontWeight: '400'\n    lineHeight: 24px\n    letterSpacing: 0em\n  body-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 13px\n    fontWeight: '400'\n    lineHeight: 20px\n    letterSpacing: 0.005em\n  label-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 14px\n    fontWeight: '600'\n    lineHeight: 20px\n    letterSpacing: 0.01em\n  label-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 11px\n    fontWeight: '600'\n    lineHeight: 16px\n    letterSpacing: 0.08em\n  code-snippet:\n    fontFamily: JetBrains Mono\n    fontSize: 13px\n    fontWeight: '500'\n    lineHeight: 20px\n    letterSpacing: 0em\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  gutter: 1.5rem\n  gutter-mobile: 1rem\n  margin: 3rem\n  margin-mobile: 1.25rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2.5rem\n---\n\n## Brand & Style\n\nThis design system is tailored for an ambitious Junior Backend and DevOps Engineer aiming to project architectural maturity, absolute reliability, and understated luxury. Departing from typical dark hacker terminal tropes, it bridges rigorous infrastructure engineering with executive-tier craftsmanship. The aesthetic merges contemporary minimalism with bespoke luxury publishing: deep navy structure, warm tactile paper whites, and micro-calibrated gold accents.\n\n### Visual Style\n- **Minimalist Structuralism:** Generous whitespace, razor-sharp architectural layout lines, structured metadata grids, and disciplined restraint.\n- **Material Warmth:** Grounded on pure white canvas with stacked warm cream and paper surfaces, rejecting sterile pure grays in favor of warm, tactile, high-end editorial substrates.\n- **Precious Accents:** Restrained metallic gold accents used solely for critical focus indicators, active states, key metric highlights, and refined edge borders.\n\n## Colors\n\nThe palette establishes an immediate sensation of executive stability, combining naval authority with the bespoke refinement of gold leaf detailing.\n\n### Roles & Semantic Applications\n- **Primary (`#0B1F3A` - Dark Navy):** The structural anchor. Applied to dominant headers, navigation bars, primary CTA button fills, terminal headers, and high-impact structural blocks.\n- **Deep Navy (`#07162A`):** Used for deep contrast contexts such as DevOps architecture diagrams, embedded live code consoles, dark terminal surfaces, and footer regions.\n- **Secondary (`#F4C542` - Bright Gold Yellow):** The primary focus and signature accent. Used sparingly for interactive focus rings, metric badges, brand insignias, commit graphs, and high-priority status indicators.\n- **Tertiary (`#C9A227` - Gold Border):** Subtle, refined luxury framing. Reserved for deliberate hairline borders, active card strokes, tab underlines, and timeline connectors.\n- **Soft Gold (`#E4C96A`):** Low-contrast gold tint. Applied to tag badge backgrounds (with alpha), icon hover washes, and secondary subtle markers.\n- **Neutral (`#1D2939` - Dark Charcoal):** Primary typographic color. Offers high legibility without the jarring starkness of pure `#000000`.\n- **Secondary Text (`#667085` - Muted Gray):** Applied to secondary descriptions, timestamps, pipeline execution runtimes, and metadata.\n- **Canvas (`#FFFFFF` - Pure White):** Root viewport background for crisp negative space.\n- **Card Surface (`#FCFAF5` - Warm White):** Elevated container backgrounds, project cards, and reading planes.\n- **Secondary Background (`#F5F0E6` - Soft Cream):** Section alternation, code block surroundings, metric highlight panels, and structural sidebars.\n\n## Typography\n\nThe typography leverages **Plus Jakarta Sans** across all primary hierarchies, providing clean modernist geometric forms tempered by humanist warmth. When presenting technical DevOps specifications, terminal output, CI/CD telemetry, or backend configurations, an auxiliary monospaced font (**JetBrains Mono**) is deployed to maintain technical credibility.\n\n### Typographic Guidelines\n- **Hero & Section Headlines:** Use tight negative letter spacing (`-0.03em` to `-0.015em`) with deep navy (`#0B1F3A`) to impart editorial gravitas.\n- **Eyebrow Headers & Badges:** Utilize `label-sm` set in all-caps with generous letter-spacing (`0.08em`) to delineate system architecture modules and project types.\n- **Technical Metrics & Code:** All runtime logs, latency measurements, uptime percentages, and environment variables strictly use `code-snippet`.\n\n## Layout & Spacing\n\nThe layout is built upon a 12-column responsive fluid grid system designed with structured mathematical rhythm. Generous vertical breathing room signals technical clarity and confidence.\n\n### Grid & Breakpoints\n- **Desktop (1200px+):** 12-column grid, `margin: 3rem`, `gutter: 1.5rem`. Max container bound: 1280px.\n- **Tablet (768px - 1199px):** 8-column grid, `margin: 2rem`, `gutter: 1.25rem`.\n- **Mobile (\u003c 768px):** 4-column grid, `margin: 1.25rem`, `gutter: 1rem`.\n\n### Vertical Rhythm\n- Architecture schematics, system performance cards, and repository overviews maintain a consistent `space-lg` gap on desktop and `space-md` on mobile.\n- Section-to-section transitions utilize large architectural clearances of `5rem` to `7rem`, maintaining the spacious luxury tone.\n\n## Elevation & Depth\n\nDepth is established primarily through **tactile paper layering and gold hairline borders** rather than thick drop shadows, creating an ultra-clean, high-craft physical presence.\n\n### Layering Model\n1. **Base Plane (0dp):** Pure White (`#FFFFFF`).\n2. **Substrate Section Layer (1dp):** Soft Cream (`#F5F0E6`) utilized for background alternation.\n3. **Elevated Card Layer (2dp):** Warm White (`#FCFAF5`) enclosed in a crisp 1px gold border (`#C9A227` at 20% opacity: `rgba(201, 162, 39, 0.2)`). Shadows are ultra-diffuse and warm-tinted: `0px 4px 24px -2px rgba(11, 31, 58, 0.04)`.\n4. **Interactive Hover & Modal Tier (3dp):** Elevated cards subtly shift upwards by `-2px`, and the border shifts to active gold (`#C9A227` at 60% opacity) with shadow `0px 12px 32px -4px rgba(11, 31, 58, 0.08)`.\n5. **Console & Deep Tech Inset Layer:** Deep Navy (`#07162A`) card planes embedded with a 1px border of `#0B1F3A` and inner hairline stroke of `rgba(244, 197, 66, 0.15)`.\n\n## Shapes\n\nThe design system incorporates geometric balance: confident, spacious containers counterbalanced by softened radii. Per the design specification, project cards and prominent panels utilize `rounded-xl` (`1.5rem` / `24px`) to establish a relaxed, premium silhouette.\n\n### Component Radii Mapping\n- **Project Cards & Console Enclosures:** `rounded-xl` (`1.5rem` / `24px`).\n- **Interactive Controls & Input Fields:** `rounded-lg` (`1rem` / `16px`).\n- **Pills, Badges & Micro Chips:** `rounded-full` (`9999px`) for tech stacks, uptime indicators, and status tags.\n\n## Components\n\n### Buttons\n- **Primary Button:** Dark Navy (`#0B1F3A`) fill, pure white text, `label-md`. Border: 1px solid transparent. Hover: Background lifts to `#152E52` with subtle bottom border highlight of Bright Gold (`#F4C542`). Focus: 2px ring in Bright Gold (`#F4C542`) offset by 2px.\n- **Secondary / Outline Button:** Transparent fill, Dark Navy text (`#0B1F3A`), 1.5px border of Gold (`#C9A227`). Hover: Warm White (`#FCFAF5`) fill with Soft Gold (`#E4C96A`) border.\n- **Tech Action (Terminal/CLI):** Deep Navy (`#07162A`) fill, Monospace JetBrains Mono text, Bright Gold (`#F4C542`) leading cursor icon `$` or `\u003e`.\n\n### Cards & Project Showcases\n- Background: Warm White (`#FCFAF5`).\n- Border: 1px solid `rgba(201, 162, 39, 0.25)`.\n- Border Radius: `rounded-xl` (`1.5rem`).\n- Internal Padding: `space-xl` (`2.5rem`) on desktop; `space-lg` (`1.5rem`) on mobile.\n- Features: Integrated metric tags, backend architecture badges, and subtle gold accent bar (`2px` height) across top edge upon hover.\n\n### Chips & Badges\n- **Skill / Tech Stack Chip (Kubernetes, Go, AWS, Docker):** Soft Cream background (`#F5F0E6`), Dark Charcoal (`#1D2939`) text, 1px hairline border of `rgba(201, 162, 39, 0.3)`.\n- **Status / Health Badge:** `rounded-full` pill with a 6px glowing dot in Bright Gold (`#F4C542`) and text in Dark Navy (`#0B1F3A`).\n\n### Form Elements & Inputs\n- Background: Pure White (`#FFFFFF`).\n- Border: 1.5px solid `rgba(102, 112, 133, 0.3)`.\n- Active / Focus: Border transitions smoothly to Gold Border (`#C9A227`), ringed with `4px rgba(244, 197, 66, 0.15)`.\n\n### Architecture & Infrastructure Components\n- **System Architecture Visualizer Block:** Deep Navy (`#07162A`) canvas enclosed with `rounded-xl`, populated with glowing micro-diagrams, gold connection paths (`#C9A227`), and JetBrains Mono latency counters.\n- **CI/CD Pipeline Tracker:** Horizontal flow diagram with Warm White nodes connected by Gold hairlines, displaying micro-indicators for build phases, latency metrics, and test coverage ratios.",
+        "colorVariant": "FIDELITY",
+        "overridePrimaryColor": "#0b1f3a",
+        "overrideSecondaryColor": "#f4c542",
+        "overrideTertiaryColor": "#c9a227",
+        "overrideNeutralColor": "#1d2939",
+        "spacingScale": 2,
+        "typography": {
+          "headline-lg-mobile": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "lineHeight": "36px",
+            "letterSpacing": "-0.015em"
+          },
+          "display-hero-mobile": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "36px",
+            "fontWeight": "700",
+            "lineHeight": "44px",
+            "letterSpacing": "-0.02em"
+          },
+          "headline-md": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "lineHeight": "32px",
+            "letterSpacing": "-0.01em"
+          },
+          "body-lg": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "28px",
+            "letterSpacing": "-0.005em"
+          },
+          "body-md": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "letterSpacing": "0em"
+          },
+          "headline-lg": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "36px",
+            "fontWeight": "600",
+            "lineHeight": "44px",
+            "letterSpacing": "-0.02em"
+          },
+          "headline-sm": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "lineHeight": "28px",
+            "letterSpacing": "-0.005em"
+          },
+          "code-snippet": {
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "20px",
+            "letterSpacing": "0em"
+          },
+          "label-sm": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "11px",
+            "fontWeight": "600",
+            "lineHeight": "16px",
+            "letterSpacing": "0.08em"
+          },
+          "body-sm": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "0.005em"
+          },
+          "display-hero": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "56px",
+            "fontWeight": "700",
+            "lineHeight": "64px",
+            "letterSpacing": "-0.03em"
+          },
+          "label-md": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "lineHeight": "20px",
+            "letterSpacing": "0.01em"
+          }
+        },
+        "spacing": {
+          "space-xl": "2.5rem",
+          "gutter": "1.5rem",
+          "margin": "3rem",
+          "gutter-mobile": "1rem",
+          "space-md": "1rem",
+          "space-sm": "0.5rem",
+          "space-xs": "0.25rem",
+          "space-lg": "1.5rem",
+          "margin-mobile": "1.25rem"
+        },
+        "headlineFontFamily": "Plus Jakarta Sans",
+        "bodyFontFamily": "Plus Jakarta Sans",
+        "labelFontFamily": "Plus Jakarta Sans"
+      }
+    },
+    "version": "1"
+  }
+}
